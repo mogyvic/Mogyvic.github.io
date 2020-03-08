@@ -29,11 +29,10 @@ Filename: debs//com.pxcexbetternethack_0.0.6_iphoneos-arm.deb
 MD5sum: 8495db0022b937c7956a3115db4cf46b
 SHA1: a852ec92f72c585f5592f1a9ba87881180bac2464
 SHA256: 8adba3628e105912538f5713cf05b939bf9ca9244d5cf4f3552a4d3baa87c1d4
-Depiction: Free Premium Betternet
-Name: Betternet++
+Depiction: https://paxcex.github.io/depictions/com.pxcex.betternethack/index.html
 
 Package: com.pxcex.hotspotshildhack
-Name: Name: Hotspot Shield++
+Name: Hotspot Shild Hack
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -47,7 +46,7 @@ Filename: debs//com.pxcex.hotspotshildhack_0.0.2_iphoneos-arm.deb
 MD5sum: e8239886e4bbee4e7fb6008d71e212d2
 SHA1: 87cda3d176a2214a5027b87772dddf519594ff23
 SHA256: 3c9a14989220a32dbefe7065aaac18486b7f468ce0821a6fb4abe8826710ba87
-Depiction: Free Premium Hotspot Shield
+Depiction: https://paxcex.github.io/depictions/com.pxcex.hotspotshildhack/inde
 
 Package: net.hollr2099.365scorespp
 Name: 365Scores++
