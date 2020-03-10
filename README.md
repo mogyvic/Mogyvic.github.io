@@ -1,1 +1,1 @@
-Mogyvic's Cydia Repo
+Mogyvic's Repo
