@@ -699,7 +699,7 @@ Version: 1.0.0.1
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
 Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4.5)
 Conflicts: io.sarahh12099.moderndock
 Filename: ./debs/ModernDock.deb
 Size: 1970
@@ -826,6 +826,38 @@ MD5sum: bc390e0e8068025760e6fd5a6455e1c2
 SHA1: 8dafdce902b18b1ea8d749dbe496a3e1357a9c27
 SHA256: 332ed4a682bc7596786bc23b6ff3c32c858f28d8828e9754cfef699a02130fa5
 Depiction: https://paxcex.github.io/depictions/com.pxcex.picsarthack/index.html
+
+Package: com.nkodder.text
+Name: TextNow ++
+Depends: mobilesubstrate
+Version: 8.34.0
+Architecture: iphoneos-arm
+Description: Premium unlimit/Skip ads video Reward.
+Maintainer: nkodder
+Author: nkodder
+Section: Tweaks
+Size: 4920
+Filename: debs//textnow.deb
+MD5sum: DAAFD429DE50C2100475E1118364ABA8
+SHA1: 42A6199E09032582D311345FB4D079F8C0D4E06B
+SHA256: 639B40DACE089932D56F19E028EEFBDD672352F1925AE6CB5D5A3428D88971CE
+
+Package: net.hollr2099.moderndock
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.moderndock
+Filename: ./debs/ModernDock.deb
+Size: 1970
+MD5sum: 870c7a152da84ba007ef22cfc76305a7
+SHA1: 50f3cf54cbc0ef7daec6693c3e6fe94c8978a88e
+SHA256: 6a5ee6054b28b71ca3b87e9e89c2e32f3ca96e3287dee881983649a55cd96b62
+Section: Tweaks
+Description: iPhone X style dock for other iDevices
+Author: SarahH12099
+Name: Modern Dock
 
 Package: com.pxcex.piccollagehack
 Name: PicCollage Hack
