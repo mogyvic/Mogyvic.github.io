@@ -14,40 +14,6 @@ MD5sum: 43c2053298df94d36253a04181e6ec64
 SHA1: a9f7a910b16b1af540da7edcf7fef4e134035808
 SHA256: 2d38496fd0e0ca9f20a6c5c615819b81ba04cf95f372cd1200f8479e4732a49d
 
-Package: com.pxcexbetternethack
-Name: Betternet Premium Hack
-Depends: mobilesubstrate
-Version: 0.0.5
-Architecture: iphoneos-arm
-Description: Best vpn proxy Betternet Premium For Free
-Maintainer: pxcex
-Author: pxcex
-Section: Tweaks
-Tag: purpose::extension, compatible_max::ios12.2
-Size: 60814
-Filename: debs//com.pxcexbetternethack_0.0.6_iphoneos-arm.deb
-MD5sum: 8495db0022b937c7956a3115db4cf46b
-SHA1: a852ec92f72c585f5592f1a9ba87881180bac2464
-SHA256: 8adba3628e105912538f5713cf05b939bf9ca9244d5cf4f3552a4d3baa87c1d4
-Depiction: https://paxcex.github.io/depictions/com.pxcex.betternethack/index.html
-
-Package: com.pxcex.hotspotshildhack
-Name: Hotspot Shild Hack
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Premium lifetime.
-Maintainer: pxcex
-Author: pxcex
-Section: Tweaks
-Tag: purpose::extension, compatible_max::ios12.2
-Size: 75640  
-Filename: debs//com.pxcex.hotspotshildhack_0.0.2_iphoneos-arm.deb
-MD5sum: e8239886e4bbee4e7fb6008d71e212d2
-SHA1: 87cda3d176a2214a5027b87772dddf519594ff23
-SHA256: 3c9a14989220a32dbefe7065aaac18486b7f468ce0821a6fb4abe8826710ba87
-Depiction: https://paxcex.github.io/depictions/com.pxcex.hotspotshildhack/inde
-
 Package: net.hollr2099.365scorespp
 Name: 365Scores++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -191,6 +157,22 @@ Size: 43636
 MD5sum: 813867e54e69409d442b80a093dce339
 SHA1: ce3fcb08987ba3a5482b889924a7125c4f80a8a8
 SHA256: 9c3ec85945f1d781ceed6e4613eb6900a625865a56e9fed10eafedfca5463436
+
+Package: net.hollr2099.betternetpp
+Version: 1.0.1.4
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/Betternet.deb
+Size: 3840
+MD5sum: 070bce82306c590441ae6bd616be3094
+SHA1: e853edaf80915182ee13127219fc76ac276a1dee
+SHA256: 8b5a39c086b1dac930a99dc890848c0d418c4eb46460ae1b75fe03ca4fab648c
+Section: Tweaks
+Description: Free Premium Betternet
+Author: SarahH12099
+Name: Betternet++
 
 Package: net.hollr2099.boompp
 Name: Boom++
@@ -514,6 +496,22 @@ Size: 3384
 MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
 SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
 SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
+
+Package: net.hollr2099.hotspotshieldpp
+Version: 1.0.2.6
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/HotspotShield.deb
+Size: 4942
+MD5sum: ba0f240eb407e0400b1edf3ebf3313ec
+SHA1: f49f536fda911b9491ef24d370de9f6783f1b6e7
+SHA256: c121472a0d6019ef236c5163d29252005e92e5c7d99c545bc72cb9d77a1d2214
+Section: Tweaks
+Description: Free Premium Hotspot Shield
+Author: SarahH12099
+Name: Hotspot Shield++
 
 Package: net.hollr2099.infuse5pp
 Name: Infuse 5++
