@@ -1041,7 +1041,7 @@ SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
 
 Package: com.ilovemyjuliotweaks.spotilife
 Name: Spotilif++
-Depends: mobilesubstrate, firmware (>= iOS 8 - 12.4)
+Depends: mobilesubstrate, firmware (>= iOS 8 - 13)
 Architecture: iphoneos-arm
 Description: spotify Hacked to allow many features but Not downloading.
 Maintainer: julioverne
