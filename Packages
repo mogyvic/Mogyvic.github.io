@@ -1072,22 +1072,6 @@ MD5sum: 632ab742962b71920bbc4e262d2e2e06
 SHA1: 1bfbc5c4fee6354a1042c1ef65e1b7b23097f482
 SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
 
-Package: com.ilovemyjuliotweaks.spotilife
-Name: Spotilife++
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Description: Spotify hacked to allow many new features but NOT downloading.
-Maintainer: julioverne
-Author: julioverne
-Section: Tweaks
-Version: 1.0.0.0
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12 
-Filename: ./debs/spotilife.deb
-Size: 82900
-MD5sum: A055A95E568EEF4146A16AAC577DCFDB
-SHA1: 80A5956912F943302C88A88D09484821A944A7FB
-SHA256: E34AC967E2D60D85421886EC965C7D1FDB146DFDD0EDD0342F13A026AF216385
-
 Package: net.hollr2099.starvpnpp
 Name: Star VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1216,21 +1200,6 @@ Size: 4258
 MD5sum: df0eb745e21cbbee2f0dea3b219c02b8
 SHA1: ac225a8e889220b79c4ffc66913129154d4cfdfc
 SHA256: 6f734b52eb4311d7fb6eaafb1e3ffb49c72bbc9cd4356d8acc3126178a23a3c3
-
-Package: com.nkodder.text
-Name: TextNow ++
-Depends: mobilesubstrate
-Version: 8.34.0
-Architecture: iphoneos-arm
-Description: Premium unlimit/Skip ads video Reward.
-Maintainer: nkodder
-Author: nkodder
-Section: Tweaks
-Size: 4920
-Filename: debs//textnow.deb
-MD5sum: DAAFD429DE50C2100475E1118364ABA8
-SHA1: 42A6199E09032582D311345FB4D079F8C0D4E06B
-SHA256: 639B40DACE089932D56F19E028EEFBDD672352F1925AE6CB5D5A3428D88971CE
 
 Package: com.pxcex.vivavideovip
 Name: VivaVideo VIP
