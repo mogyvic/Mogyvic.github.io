@@ -238,40 +238,6 @@ MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
 SHA256: b22c3d8b15736328fe76920d2d9fa304cd4d5f9fe7dcd700d11dcf03b22e1cca
 
-Package: com.pxcex.enlightvideoleaphack
-Name: Enlight Videoleap Hack
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Free Unlimited Access.
-Maintainer: pxcex
-Author: pxcex
-Section: Tweaks
-Tag: purpose::extension, compatible_max::ios12.2
-Size: 56880
-Filename: debs//com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
-MD5sum: ac982d5536d51700e33539f793c343c8
-SHA1: 78274649ef4489bb3943fc5d0de00b453af555c1
-SHA256: 47d9c30efc67520b46b525deba438d126d84e2d2c8a0d7aa0b2a1ef48f5e0667
-Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
-
-Package: com.pxcex.enlightquickshot
-Name: Enlight Quickshot Hack
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Unlimited Access.
-Maintainer: pxcex
-Author: pxcex
-Section: Tweaks
-Tag: purpose::extension, compatible_max::ios12.2
-Size: 56878
-Filename: debs//com.pxcex.enlightquickshot_0.0.2_iphoneos-arm.deb
-MD5sum: 05a398eefbb3f14124692811a52dc276
-SHA1: ba402e79086dc99801c899c0d76dc30b3b789050
-SHA256: aeec4eb3c38ef3d05818766000d318c457d72cc35d5fbe9bfcca9cf703ff1efb
-Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightquickshot/index.html
-
 Package: net.hollr2099.comicboxpp
 Name: Comic Box++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -597,22 +563,6 @@ Size: 3234
 MD5sum: 6ff2bdccfe8a3cfdd1c282c961d63c94
 SHA1: 15a40a9b391189bbc1c6a023112db515d3ee1d05
 SHA256: 467d08d0fd81707b5610bb3e07acda1b8155b26303e0a5a01f383eb1ce4623ab
-
-Package: net.hollr2099.iterminalpp
-Name: iTerminal++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No ads on iTerminal
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 117
-Filename: ./debs/iTerminal.deb
-Size: 4356
-MD5sum: 448efcc0670bed0a6a41906a77ecc13f
-SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
-SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
 
 Package: net.hollr2099.jiosaavnpp
 Name: JioSaavn++
@@ -1378,3 +1328,52 @@ MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
 
+Package: com.pxcex.enlightvideoleaphack
+Name: Enlight Videoleap Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56880
+Filename: debs//com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
+MD5sum: ac982d5536d51700e33539f793c343c8
+SHA1: 78274649ef4489bb3943fc5d0de00b453af555c1
+SHA256: 47d9c30efc67520b46b525deba438d126d84e2d2c8a0d7aa0b2a1ef48f5e0667
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
+
+Package: com.pxcex.enlightquickshot
+Name: Enlight Quickshot Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56878
+Filename: debs//com.pxcex.enlightquickshot_0.0.2_iphoneos-arm.deb
+MD5sum: 05a398eefbb3f14124692811a52dc276
+SHA1: ba402e79086dc99801c899c0d76dc30b3b789050
+SHA256: aeec4eb3c38ef3d05818766000d318c457d72cc35d5fbe9bfcca9cf703ff1efb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightquickshot/index.html
+
+Package: net.hollr2099.iterminalpp
+Name: iTerminal++
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: No ads on iTerminal
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Version: 1.0.0.1
+Installed-Size: 117
+Filename: ./debs/iTerminal.deb
+Size: 4356
+MD5sum: 448efcc0670bed0a6a41906a77ecc13f
+SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
+SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
