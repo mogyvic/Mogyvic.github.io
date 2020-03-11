@@ -827,6 +827,22 @@ SHA1: 8dafdce902b18b1ea8d749dbe496a3e1357a9c27
 SHA256: 332ed4a682bc7596786bc23b6ff3c32c858f28d8828e9754cfef699a02130fa5
 Depiction: https://paxcex.github.io/depictions/com.pxcex.picsarthack/index.html
 
+Package: com.pxcex.picseehack
+Name: PicSee Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: PicSee - Add Text Over Picture Ultimate Bundle.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.4
+Size: 70330
+Filename: debs//com.pxcex.picseehack_0.0.2_iphoneos-arm.deb
+MD5sum: 14115306f9b63ff9cc954094551fa45c
+SHA1: 91190d24e6ba2a7ae3430e289be97138c9bf8919
+SHA256: 2f3aa06c092a9c4ee06c2bbb5a22e0e5a57b12c1797da7183501371ea25327f6
+
 Package: com.nkodder.text
 Name: TextNow ++
 Depends: mobilesubstrate
