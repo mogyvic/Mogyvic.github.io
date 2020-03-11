@@ -1039,6 +1039,22 @@ MD5sum: 632ab742962b71920bbc4e262d2e2e06
 SHA1: 1bfbc5c4fee6354a1042c1ef65e1b7b23097f482
 SHA256: 2c4fdcec01e920242e5cead940d0e14d91074fb7feb41475f0a5f5e58994fb63
 
+Package: net.Mogycic.spotilife
+Name: Spotilif++
+Depends: mobilesubstrate, firmware (>= iOS 8-12.4)
+Architecture: iphoneos-arm
+Description: spotify Hacked to allow many features but Not downloading.
+Maintainer: julioverne
+Author: julioverne
+Section: Tweaks
+Version: 1.0.0.0
+Installed-Size: 
+Filename: ./debs/spotilife.deb
+Size: 82900
+MD5sum: A055A95E568EEF4146A16AAC577DCFDB
+SHA1: 80A5956912F943302C88A88D09484821A944A7FB
+SHA256: E34AC967E2D60D85421886EC965C7D1FDB146DFDD0EDD0342F13A026AF216385
+
 Package: net.hollr2099.starvpnpp
 Name: Star VPN++
 Depends: mobilesubstrate, firmware (>= 10.0)
