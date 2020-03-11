@@ -238,6 +238,40 @@ MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
 SHA256: b22c3d8b15736328fe76920d2d9fa304cd4d5f9fe7dcd700d11dcf03b22e1cca
 
+Package: com.pxcex.enlightvideoleaphack
+Name: Enlight Videoleap Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56880
+Filename: debs//com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
+MD5sum: ac982d5536d51700e33539f793c343c8
+SHA1: 78274649ef4489bb3943fc5d0de00b453af555c1
+SHA256: 47d9c30efc67520b46b525deba438d126d84e2d2c8a0d7aa0b2a1ef48f5e0667
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
+
+Package: com.pxcex.enlightquickshot
+Name: Enlight Quickshot Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Access.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 56878
+Filename: debs//com.pxcex.enlightquickshot_0.0.2_iphoneos-arm.deb
+MD5sum: 05a398eefbb3f14124692811a52dc276
+SHA1: ba402e79086dc99801c899c0d76dc30b3b789050
+SHA256: aeec4eb3c38ef3d05818766000d318c457d72cc35d5fbe9bfcca9cf703ff1efb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightquickshot/index.html
+
 Package: net.hollr2099.comicboxpp
 Name: Comic Box++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -399,6 +433,24 @@ Size: 3364
 MD5sum: 079ff465dc19ae19def62cbdb4bcfde5
 SHA1: 6ca5c90e3a2ebbef5fc30e0b2e616ac781fd57a8
 SHA256: 2a8b6538e65641275c3e4bd9659c614bea249a247be03c1e392a84fee6db1dbc
+
+Package: com.pxcex.facetunevip
+Package: facetunevip
+Name: Facetune2 VIP
+Depends: mobilesubstrate
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Unlock Feature VIP without Purchase.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Depiction: https://paxcex.github.io/depictions/com.pxcex.facetunevip/index.html
+Size: 57060
+Filename: debs//facetunevip.deb
+MD5sum: f7b6b5f70668ba9f0bebbca4a7a823b1
+SHA1: 1d6375907bfdf59de76d4833b0268ae48c40f140
+SHA256: 162d7c49f4ead1938c5d6b32a1f15e3385c8b3eb90867f717922b08716f8264e
 
 Package: net.hollr2099.fancypantsadventurespp
 Name: Fancy Pants Adventures++
@@ -692,6 +744,40 @@ MD5sum: 1eb099b7315902f9606d3139c1cb2cb2
 SHA1: 255826039f8389e7704f37a8a09066db05b30e50
 SHA256: 9ca00100ca086431605ba1749d1f3c1990eb493f708a03be294649f92dffdebf
 
+Package: net.hollr2099.moderndock
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.moderndock
+Filename: ./debs/ModernDock.deb
+Size: 1970
+MD5sum: 870c7a152da84ba007ef22cfc76305a7
+SHA1: 50f3cf54cbc0ef7daec6693c3e6fe94c8978a88e
+SHA256: 6a5ee6054b28b71ca3b87e9e89c2e32f3ca96e3287dee881983649a55cd96b62
+Section: Tweaks
+Description: iPhone X style dock for other iDevices
+Author: SarahH12099
+Name: Modern Dock
+
+Package: com.pxcex.musixmatchpremium
+Name: Musixmatch Premium
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Musixmatch Party Mode & Premium Subscribtion.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 60776
+Filename: debs//musixmatchpremium.deb
+MD5sum: 67561391d4fe275508c48ca7ad6f2295
+SHA1: cc2eec76afe3fae10dbdf51f6ba531af24755918
+SHA256: 44aa911a111e89b17733d0e1231792fb050b4fb70e6f30e5ce10134a167d4910
+Depiction: https://paxcex.github.io/depictions/com.pxcex.musixmatchpremium/index.html
+
 Package: net.hollr2099.myprivacypp
 Name: MyPrivacy++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -773,6 +859,40 @@ Size: 3188
 MD5sum: e6f3782ff972cf561b5b890e79abb469
 SHA1: b8956d733d21872688bd9b64147d935ffd4671bc
 SHA256: 127e6066aed0a314ea1e1454aa93e668c8f43a89d8dfee878a67a411ce1ae291
+
+Package: com.pxcex.picsarthack
+Name: PicsArt Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: PicsArt Gold.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59222 
+Filename: debs//picsarthack.deb
+MD5sum: bc390e0e8068025760e6fd5a6455e1c2
+SHA1: 8dafdce902b18b1ea8d749dbe496a3e1357a9c27
+SHA256: 332ed4a682bc7596786bc23b6ff3c32c858f28d8828e9754cfef699a02130fa5
+Depiction: https://paxcex.github.io/depictions/com.pxcex.picsarthack/index.html
+
+Package: com.pxcex.piccollagehack
+Name: PicCollage Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: VIP Life Time!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59514 
+Filename: debs//piccollagehack.deb
+MD5sum: a0f6882c12cd0ad776f65aed7df37736
+SHA1: 61b0a75407ea0a9eb41c9e5733151f15b3d6ca48
+SHA256: 8b4027d50f0896ab418a18f29779418820fab0eeea744df8f3cc96d3901b5e38
+Depiction: https://paxcex.github.io/depictions/com.pxcex.piccollagehack/index.html
 
 Package: net.hollr2099.plexpp
 Name: Plex++
@@ -1097,6 +1217,22 @@ Size: 4258
 MD5sum: df0eb745e21cbbee2f0dea3b219c02b8
 SHA1: ac225a8e889220b79c4ffc66913129154d4cfdfc
 SHA256: 6f734b52eb4311d7fb6eaafb1e3ffb49c72bbc9cd4356d8acc3126178a23a3c3
+
+Package: com.pxcex.vivavideovip
+Name: VivaVideo VIP
+Version: 7.0.3
+Size: 63520
+Architecture: iphoneos-arm
+Description: VivaVideo VIP for Free!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+SHA1sum: e1517f214a4714ce4b7ec83909bb8f217aac0b7c
+SHA256sum: 896901776ef836aaeb48d0cdc659173c37991e4889111dd79a0d2e50128462bb
+MD5sum: bf7a2f360f7cb67a62e9030c8bb2dd7d
+Filename: debs//com.pxcex.vivavideovip_7.0.4_iphoneos-arm.deb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.vivavideovip/index.html
 
 Package: net.hollr2099.vpnpp
 Name: #VPN - Wi-Fi Hotspot Security++
