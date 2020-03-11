@@ -843,21 +843,6 @@ MD5sum: 14115306f9b63ff9cc954094551fa45c
 SHA1: 91190d24e6ba2a7ae3430e289be97138c9bf8919
 SHA256: 2f3aa06c092a9c4ee06c2bbb5a22e0e5a57b12c1797da7183501371ea25327f6
 
-Package: com.nkodder.text
-Name: TextNow ++
-Depends: mobilesubstrate
-Version: 8.34.0
-Architecture: iphoneos-arm
-Description: Premium unlimit/Skip ads video Reward.
-Maintainer: nkodder
-Author: nkodder
-Section: Tweaks
-Size: 4920
-Filename: debs//textnow.deb
-MD5sum: DAAFD429DE50C2100475E1118364ABA8
-SHA1: 42A6199E09032582D311345FB4D079F8C0D4E06B
-SHA256: 639B40DACE089932D56F19E028EEFBDD672352F1925AE6CB5D5A3428D88971CE
-
 Package: net.hollr2099.moderndock
 Version: 1.0.0.1
 Architecture: iphoneos-arm
@@ -1232,6 +1217,21 @@ MD5sum: df0eb745e21cbbee2f0dea3b219c02b8
 SHA1: ac225a8e889220b79c4ffc66913129154d4cfdfc
 SHA256: 6f734b52eb4311d7fb6eaafb1e3ffb49c72bbc9cd4356d8acc3126178a23a3c3
 
+Package: com.nkodder.text
+Name: TextNow ++
+Depends: mobilesubstrate
+Version: 8.34.0
+Architecture: iphoneos-arm
+Description: Premium unlimit/Skip ads video Reward.
+Maintainer: nkodder
+Author: nkodder
+Section: Tweaks
+Size: 4920
+Filename: debs//textnow.deb
+MD5sum: DAAFD429DE50C2100475E1118364ABA8
+SHA1: 42A6199E09032582D311345FB4D079F8C0D4E06B
+SHA256: 639B40DACE089932D56F19E028EEFBDD672352F1925AE6CB5D5A3428D88971CE
+
 Package: com.pxcex.vivavideovip
 Name: VivaVideo VIP
 Version: 7.0.3
@@ -1443,6 +1443,23 @@ MD5sum: dec390b970e8af523105bd64764e1120
 SHA1: 92060f48b4f4b5bbfd056e1770c4dc76fb99ea9f
 SHA256: 0aae2db8b1bcb7ff22f13463e607fb3442dc14163ed2f01af5422fc3ddc66c1b
 
+Package: com.pxcex.piccollagehack
+Name: PicCollage Hack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: VIP Life Time!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+Size: 59514 
+Filename: debs//piccollagehack.deb
+MD5sum: a0f6882c12cd0ad776f65aed7df37736
+SHA1: 61b0a75407ea0a9eb41c9e5733151f15b3d6ca48
+SHA256: 8b4027d50f0896ab418a18f29779418820fab0eeea744df8f3cc96d3901b5e38
+Depiction: https://paxcex.github.io/depictions/com.pxcex.piccollagehack/index.html
+
 Package: net.hollr2099.iterminalpp
 Name: iTerminal++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1458,3 +1475,5 @@ Size: 4356
 MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
 SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
+
+
