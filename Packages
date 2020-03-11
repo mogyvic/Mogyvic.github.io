@@ -1362,6 +1362,23 @@ SHA1: ba402e79086dc99801c899c0d76dc30b3b789050
 SHA256: aeec4eb3c38ef3d05818766000d318c457d72cc35d5fbe9bfcca9cf703ff1efb
 Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightquickshot/index.html
 
+Package: com.pxcex.facetunevip
+Name: Facetune2 VIP
+Depends: mobilesubstrate
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: VIP Subscription Lifetime!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.4
+Depiction: https://paxcex.github.io/depictions/com.pxcex.facetunevip/index.html
+Size: 68342
+Filename: debs//com.pxcex.facetunevip_2.0.1_iphoneos-arm.deb
+MD5sum: dec390b970e8af523105bd64764e1120
+SHA1: 92060f48b4f4b5bbfd056e1770c4dc76fb99ea9f
+SHA256: 0aae2db8b1bcb7ff22f13463e607fb3442dc14163ed2f01af5422fc3ddc66c1b
+
 Package: net.hollr2099.iterminalpp
 Name: iTerminal++
 Depends: mobilesubstrate, firmware (>= 10.0)
