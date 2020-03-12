@@ -1,78 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
-	<head>
-		<title>Mogyvic's Repo</title>
-<!--<meta property="fb:app_id" content="Mogyvic">-->
-<meta property="og:title" content="Mogyvic's Repo">
-<meta property="og:image" content="https://Mogyvic.github.io/CydiaIcon.png">
-	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
-	</noscript>
-	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta charset="utf-8">
-<script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=d"></script>
-<body onload="loadPackages();">
-	<main id="content">
-		<h2 role="header">Mogyvic's Repo</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://Mogyvic.github.io/" role="button">
-					<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
-					<label>Open Cydia</label>
-				</a>
-			</li>
-		</ul>
-		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://Mogyvic.github.io/</p>
-		<noscript>
-			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
-		</noscript>
-		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
-		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
-		<h2 role="header">Social</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="https://github.com/Mogyvic" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="github.png" alt="" srcset="github.png 2x, github.png 3x" class="icon"/>
-					<label>GitHub</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.reddit.com/user/Mogyvic" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="reddit.png" alt="" srcset="reddit.png 2x, reddit.png 3x" class="icon"/>
-					<label>Reddit</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://twitter.com/mogyvic" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
-					<label>Follow Mogyvic</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.paypal.me/Mogyvic" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="PP.png" alt="" srcset="pp.png 2x, pp.png 3x" class="icon"/>
-					<label>Paypal (Support)</label>
-					
-					</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.patreon.com/Mogyvic" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="patreon.png" alt="" srcset="patreon.png 2x, patreon.png 3x" class="icon"/>
-					<label>patreon (Support)</label>
-				</a>
-			</li>
-		</ul>
-		<h2 role="header">Theme</h2>
-		<ul>
-			<li>
-				<a onclick="toogleTheme();" role="button">
-					<p>Change Theme</p>
-				</a>
-			</li>
-		</ul>
-	</main>
-	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">Mogyvic © 2020</p>
+<head>
+    <title>Mogyvic's Repo</title>
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet" type="text/css"/>
+    <link href="Style.css" rel="stylesheet"/>
+
+<body>
+
+<header>
+  <div class="intromsg">
+    <img id='repoIcon' src="CydiaIcon1.png"/>
+    <h1 class="repo">/ Mogyvic's Cydia Repo /</h1>
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://Mogyvic.github.io"
+           class="btn btn-lg btn-outline">Add this repo to Cydia</a>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+      <h2 class="donation">If you enjoy my work, please consider supporting me with a small donation :)</h2>
+  </div>
+  <div class="col-lg-8 col-lg-offset-2 text-center">
+      <a href="https://www.paypal.me/mogyvic" class="btn btn-lg btn-outline">Buy me a coffee/beer</a>
+  </div>
+
+</header>
+
+
+<footer class="text-center">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <ul class="list-inline">
+                      <li>
+                          <a href="mailto:mogyvic@gmail.com" class="btn-social btn-outline"><span
+                                  class="sr-only">Email</span><i
+                                  class="fa fa-fw fa-envelope-open"></i></a>
+                      </li>
+                      <li>
+                          <a href="https://www.reddit.com/user/mogyvic/" class="btn-social btn-outline"><span
+                                  class="sr-only">Reddit</span><i
+                                  class="fa fa-fw fa-reddit-alien"></i></a>
+                      </li>
+                      <li>
+                          <a href="https://twitter.com/mogyvic" class="btn-social btn-outline"><span
+                                  class="sr-only">Twitter</span><i
+                                  class="fa fa-fw fa-twitter"></i></a>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
