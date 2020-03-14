@@ -1445,11 +1445,10 @@ MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
 SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
 
-
 Package: Package:com.Mogyvic.FindUnFollow
 Version: 2.4.3
 Architecture: iphoneos-arm
-Maintainer: lol
+Maintainer: Mogyvic
 Installed-Size: 136
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
