@@ -1361,6 +1361,22 @@ MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
 
+Package: Package:com.Mogyvic.FindUnFollow
+Version: 2.4.3
+Architecture: iphoneos-arm
+Maintainer: Mogyvic
+Installed-Size: 136
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
+Size: 264204
+MD5sum: b03c399791755f90373232ba2f6f4e08
+SHA1: 0e4b9a9988ae2732198dc9e45a0a5954043c0951
+SHA256: ea34d153d241ca7c5cf59149dab53d73ce16688b5b61b15da790dfa1fc995274
+Section: Tweaks
+Description: Free premium Findunfollow
+Author: Mogyvic
+Name: FindUnFollow hack
+
 Package: com.pxcex.enlightvideoleaphack
 Name: Enlight Videoleap Hack
 Depends: mobilesubstrate
@@ -1445,18 +1461,3 @@ MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
 SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
 
-Package: Package:com.Mogyvic.FindUnFollow
-Version: 2.4.3
-Architecture: iphoneos-arm
-Maintainer: Mogyvic
-Installed-Size: 136
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
-Size: 264204
-MD5sum: b03c399791755f90373232ba2f6f4e08
-SHA1: 0e4b9a9988ae2732198dc9e45a0a5954043c0951
-SHA256: ea34d153d241ca7c5cf59149dab53d73ce16688b5b61b15da790dfa1fc995274
-Section: Tweaks
-Description: Free premium Findunfollow
-Author: Mogyvic
-Name: FindUnFollow hack
