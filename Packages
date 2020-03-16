@@ -1242,21 +1242,3 @@ Size: 3912
 MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
-
-Package: net.hollr2099.iterminalpp
-Name: iTerminal++
-Depends: mobilesubstrate, firmware (>= 10.0)
-Architecture: iphoneos-arm
-Description: No ads on iTerminal
-Maintainer: SarahH12099
-Author: SarahH12099
-Section: Tweaks
-Version: 1.0.0.1
-Installed-Size: 117
-Filename: ./debs/iTerminal.deb
-Size: 4356
-MD5sum: 448efcc0670bed0a6a41906a77ecc13f
-SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
-SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
-
-
