@@ -772,6 +772,21 @@ Description: iPhone X style dock for other iDevices
 Author: SarahH12099
 Name: Modern Dock
 
+Package: com.mogyvic.Musixmatchpremium
+Name: Musixmatch Premium
+Version: 0.0.3
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Author: pxcex <repo@mogyvic.github.io>
+Depiction: http://mogyvic.github.io/depiction/depiction.php?filename=musixmatchpremium
+Section: Tweaks
+Description: Musixmatch Party Mode & Premium Subscribtion.
+Homepage: http://mogyvic.github.io/depiction/depiction.php?filename=musixmatchpremium
+Maintainer: Mogyvic <repo@mogyvic.github.io>
+MD5sum: 9A6D604C9940A752E38A84FEABE3614C
+SHA1: 70237FD2F7341446442F33213BFA86237CE496B7
+SHA256: DA74EACC5A779B8393CC1DFDDF50DBC008BC1C30E86A03DF857C6A45D81CCC22
+
 Package: net.hollr2099.myprivacypp
 Name: MyPrivacy++
 Depends: mobilesubstrate, firmware (>= 10.0)
