@@ -772,6 +772,23 @@ Description: iPhone X style dock for other iDevices
 Author: SarahH12099
 Name: Modern Dock
 
+Package: net.hollr2099.modernstatusbar
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.modernstatusbar
+Filename: ./debs/ModernStatusBar.deb
+Size: 1964
+MD5sum: fffc23eca87a5b6a261c9a66c1061da0
+SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
+SHA256: f438153c5b5775b9a3fdd5e43e913d1439da2b894bc9d316e28f88c3ed310e95
+Section: Tweaks
+Description: More Modern Status Bar for iPhone
+Author: SarahH12099
+Name: Modern Status Bar
+
 Package: com.mogyvic.Musixmatchpremium
 Name: Musixmatch Premium
 Version: 0.0.3
