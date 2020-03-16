@@ -335,6 +335,22 @@ MD5sum: 86d9ffb3dfad4e43371898c6a649aa09
 SHA1: 368dd8e6a315e57511fb4194dbaee9abf7289486
 SHA256: 201e9ba12067f6d6d21f4708348c7bc7c932de8e1087bb6725a54e404cef66e4
 
+Package: net.hollr2099.cydiaviewhiddenpackages
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/CydiaView.deb
+Size: 2534
+MD5sum: 4687a9ec0206cd81efbf4e1e971811f6
+SHA1: 5b2db96bf0f60dbd0b8a0fcf7fdc16a4137f37f7
+SHA256: d716eec74becfede559a5c18e12a4a6c450a954c71fa4e68b6a36702f0329993
+Section: Tweaks
+Description: View hidden packages on Cydia
+Author: SarahH12099
+Name: Cydia View Hidden Packages
+
 Package: net.hollr2099.darkroompp
 Name: Darkroom++
 Depends: mobilesubstrate, firmware (>= 10.0)
