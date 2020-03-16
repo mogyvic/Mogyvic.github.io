@@ -126,6 +126,22 @@ MD5sum: 7cf79fb19fbdb73acac6e06fcda99645
 SHA1: 1ac9d3d590e71f4448b5764bafb10c10f1ed6a28
 SHA256: 91a6d16238491aaf303bf71ee8ac17dba5516242e4252f0585303519e468fddb
 
+Package: net.hollr2099.appswitchergrid
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Filename: ./debs/AppSwitcherGrid.deb
+Size: 2384
+MD5sum: 8fc5a0986dd1a664d0f583c7f8c906ea
+SHA1: 9196f25fbe2f889b0f0dc1bb1398e17ed6fb998c
+SHA256: 50611f487e52c005d66bcf7cdc89cb0d795a992b3be753e13a2463035278f0ba
+Section: Tweaks
+Description: Turns AppSwitcher into a 2x2 grid
+Author: SarahH12099
+Name: AppSwitcher Grid
+
 Package: net.hollr2099.audiomackpp
 Name: Audiomack++
 Depends: mobilesubstrate, firmware (>= 10.0)
