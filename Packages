@@ -529,6 +529,38 @@ MD5sum: 30c46cc1d8bb7b9ad87bd3890876084e
 SHA1: 42d4774860ff5843ecec9631800d51a32ad5b5c9
 SHA256: 84f1ef11c5e42dc76033bdb8c648e7f75d46872100c9b7ced4ba6709f8c3b7e0
 
+Package: net.hollr2099.happychickpp
+Version: 1.0.0.3
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/HappyChick.deb
+Size: 3908
+MD5sum: 70bec5f5cd77dfb8961c7513d9bab08a
+SHA1: 011cff9b83a41c64803ac659c13e24b907a5fc71
+SHA256: 9bdf56b0009c8f766be397144eb22a4f382757068fabee8ac28408e3b4b030fc
+Section: Tweaks
+Description: No startup ad and no banner ad on Happy Chick Emulator
+Author: SarahH12099
+Name: Happy Chick++
+
+Package: net.hollr2099.hexatechpp
+Version: 1.0.0.9
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/Hexatech.deb
+Size: 3740
+MD5sum: 32667fda2e7ba8c3c2cb225a3cf8ccc1
+SHA1: 54213939e904316a9475de941b711a4422369726
+SHA256: 05a4c39aec06e7b47c456243d93c6954e2a8f5b4d4bcd039faabf83a633844f2
+Section: Tweaks
+Description: Free Premium Hexatech
+Author: SarahH12099
+Name: Hexatech++
+
 Package: net.hollr2099.hotspotshieldpp
 Version: 1.0.2.6
 Architecture: iphoneos-arm
@@ -757,6 +789,39 @@ Size: 4044
 MD5sum: c67e27bf56d9d0988c1a34cdacfbc5bd
 SHA1: 44ecc2ce7654f67f6ee89ad9aedcdcb67384e829
 SHA256: fb9f3a359db83e04ba2c6736471f44fdf4a7582cd725bf43c2e802ddd3cff412
+
+Package: net.hollr2099.nocarrierstatusbar
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.1.2)
+Filename: ./debs/NoCarrierStatusBar.deb
+Size: 2722
+MD5sum: 68fd93a0f41080f09bbbf9db48e3c1e7
+SHA1: 3fc0a525366087a7cd9027a02183d963183e86e9
+SHA256: bb2ef5ce103c78ad9db2a55b06317289c131585dda6fb805a03486c291ad02b5
+Section: Tweaks
+Description: No Carrier in the Status Bar
+Author: SarahH12099
+Name: No Carrier Status Bar
+
+Package: net.hollr2099.nodndlockscreen
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 69
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<= 12.4)
+Conflicts: io.sarahh12099.nodndlockscreen
+Filename: ./debs/NoDNDLockscreen.deb
+Size: 2012
+MD5sum: 1ba8b7247c72dad02c1e45b64b6c96d3
+SHA1: 4d331e0d81fb70d9946e05aa07c09837b19dfcf7
+SHA256: acb3cdadb9fc1f577538abdb79fd82b4bf93af43576d67222d32ecfd2eec1da4
+Section: Tweaks
+Description: No Do Not Disturb notification on lockscreen
+Author: SarahH12099
+Name: No DND Lockscreen
 
 Package: net.hollr2099.officesuitepp
 Name: OfficeSuite++
@@ -1147,6 +1212,22 @@ MD5sum: 8ee39dc997616035373be88e1cba22a7
 SHA1: ad9c73c042c0ab94d6371915aabda1b22fc0f493
 SHA256: 621765eddc989a1c598351b87f46a86422d97f2efa5e6d15018647eeb51737f2
 
+Package: net.hollr2099.vpnaegispp
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/VPNAegis.deb
+Size: 3774
+MD5sum: 4644720945f5a7076af9e45b16c239e5
+SHA1: 112065765a4c5e052d2263fa63ccb18c98fabaaf
+SHA256: d72063937bfd8d52cd91aa838a280478f62813006298ddf0843abfdf5205d204
+Section: Tweaks
+Description: Free Premium VPN Aegis
+Author: SarahH12099
+Name: VPN Aegis++
+
 Package: net.hollr2099.vpncatpp
 Name: VPN Cat++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1178,6 +1259,22 @@ Size: 44670
 MD5sum: b57d2796ea90eb5226dbf08aa7e65dec
 SHA1: 4d6cd6823d5b9ab90559cc5ff3c8fa9db4c6165f
 SHA256: 9a1ecc6fc220783b0760a6cfadcd00b5b11e478b01b76a2e0311973c4ca94b55
+
+Package: net.hollr2099.vpnintouchpp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/VPNinTouch.deb
+Size: 3694
+MD5sum: 472823d94c51e28248b73bf13d953a52
+SHA1: 16af3b2aac9caecee478ab739f784f7c6ca7dd72
+SHA256: e008f3f60da65419480cce71f3e567b18c99d6c49049586f3bacdc351e278e69
+Section: Tweaks
+Description: Free Premium VPN in Touch, It doesn't bypass the data limit, only cracks premium.
+Author: SarahH12099
+Name: VPN in Touch++
 
 Package: net.hollr2099.weatherlivepp
 Name: Weather Live++
@@ -1274,3 +1371,35 @@ Size: 3912
 MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
+
+Package: net.hollr2099.himusicpp
+Version: 1.0.0.2
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/hiMusic.deb
+Size: 4954
+MD5sum: 8cb882b580697bb20228bf3470d68129
+SHA1: b09af4606253514684794d8e65f6f78828bcb2f5
+SHA256: 15505b890544c2f85cd23104becae5ea6d4c75dfa257f74e05a3ef12b5ff6fc9
+Section: Tweaks
+Description: No Ads On hiMusic
+Author: SarahH12099
+Name: hiMusic++
+
+Package: net.hollr2099.iterminalpp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/iTerminal.deb
+Size: 4356
+MD5sum: 448efcc0670bed0a6a41906a77ecc13f
+SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
+SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
+Section: Tweaks
+Description: No ads on iTerminal
+Author: SarahH12099
+Name: iTerminal++
