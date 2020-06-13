@@ -258,15 +258,15 @@ Package: com.strejda603.truecallerpremiumgold
 Name: Truecaller (Premium Gold)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Enables Premium Gold features.
+Description: Enables Premium Gold features. متوافقه مع نسخة 10.26
 Maintainer: strejda603 <strejda603@centrum.cz>
 Author: strejda603 <strejda603@centrum.cz>
-Homepage: https://repo.danielpitra.cz
 Section: Tweaks
-Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecallerpremiumgold
-Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
 Version: 0.0.2
 Installed-Size: 264
+MD5sum: BB2DCB5E64FA9696197DCE0A22FCFD42
+SHA1: 38068593D5BF3E4EF3BE742E978B89A88F346D28
+SHA256: 481A1514D5581D29662B687F911CF5A643A2FA34503129A823A704CB284B42DE
 
 Package: net.hollr2099.comicboxpp
 Name: Comic Box++
