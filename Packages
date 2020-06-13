@@ -254,20 +254,6 @@ MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
 SHA256: b22c3d8b15736328fe76920d2d9fa304cd4d5f9fe7dcd700d11dcf03b22e1cca
 
-Package: com.strejda603.truecallerpremiumgold
-Name: Truecaller (Premium Gold)
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Enables Premium Gold features. متوافقه مع نسخة 10.26
-Maintainer: strejda603 <strejda603@centrum.cz>
-Author: strejda603 <strejda603@centrum.cz>
-Section: Tweaks
-Version: 0.0.2
-Installed-Size: 264
-MD5sum: BB2DCB5E64FA9696197DCE0A22FCFD42
-SHA1: 38068593D5BF3E4EF3BE742E978B89A88F346D28
-SHA256: 481A1514D5581D29662B687F911CF5A643A2FA34503129A823A704CB284B42DE
-
 Package: net.hollr2099.comicboxpp
 Name: Comic Box++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1432,6 +1418,20 @@ Size: 3912
 MD5sum: f9b80565b82a4010311939a3b45c88a6
 SHA1: 882472d89effb68dcad70f2e393b32ae3d4411e1
 SHA256: 60d87c08443b3c06d1ff9009799980557759dc570b53830ef4a3872bb0e3d8a6
+
+Package: com.strejda603.truecallerpremiumgold
+Name: Truecaller (Premium Gold)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables Premium Gold features. متوافقه مع نسخة 10.26
+Maintainer: strejda603 <strejda603@centrum.cz>
+Author: strejda603 <strejda603@centrum.cz>
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 264
+MD5sum: BB2DCB5E64FA9696197DCE0A22FCFD42
+SHA1: 38068593D5BF3E4EF3BE742E978B89A88F346D28
+SHA256: 481A1514D5581D29662B687F911CF5A643A2FA34503129A823A704CB284B42DE
 
 Package: net.hollr2099.himusicpp
 Version: 1.0.0.2
