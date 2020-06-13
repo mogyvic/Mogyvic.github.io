@@ -254,6 +254,20 @@ MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
 SHA256: b22c3d8b15736328fe76920d2d9fa304cd4d5f9fe7dcd700d11dcf03b22e1cca
 
+Package: com.strejda603.truecallerpremiumgold
+Name: Truecaller (Premium Gold)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables Premium Gold features.
+Maintainer: strejda603 <strejda603@centrum.cz>
+Author: strejda603 <strejda603@centrum.cz>
+Homepage: https://repo.danielpitra.cz
+Section: Tweaks
+Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecallerpremiumgold
+Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
+Version: 0.0.2
+Installed-Size: 264
+
 Package: net.hollr2099.comicboxpp
 Name: Comic Box++
 Depends: mobilesubstrate, firmware (>= 10.0)
@@ -1431,6 +1445,7 @@ MD5sum: 8cb882b580697bb20228bf3470d68129
 SHA1: b09af4606253514684794d8e65f6f78828bcb2f5
 SHA256: 15505b890544c2f85cd23104becae5ea6d4c75dfa257f74e05a3ef12b5ff6fc9
 Section: Tweaks
+Section: Tweaks
 Description: No Ads On hiMusic
 Author: SarahH12099
 Name: hiMusic++
@@ -1449,19 +1464,3 @@ SHA256: dea9391a6f82685f86a7c1752b29eb51c4dccda4727bca4bc73a8c050ab2958e
 Section: Tweaks
 Description: No ads on iTerminal
 Author: SarahH12099
-
-Package: com.strejda603.truecallerpremiumgold
-Name: Truecaller (Premium Gold)
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Enables Premium Gold features.
-Maintainer: strejda603 <strejda603@centrum.cz>
-Author: strejda603 <strejda603@centrum.cz>
-Homepage: https://repo.danielpitra.cz
-Section: Tweaks
-Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.truecallerpremiumgold
-Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.truecallerpremiumgold
-Version: 0.0.2
-Installed-Size: 264
-
-Name: iTerminal++
