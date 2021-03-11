@@ -1,0 +1,27 @@
+How to use AltStore normally without connecting to the computer once. Special attention: After updating the main AltStore program in the source, you need to re-enter the info.plist in the /Applications/AltStore.app directory to modify the ALTDeviceID to your own UDID
+
+1. ⁠Install the main AltStore program, deb files👇 
+Altstore+
+
+3. ⁠Filza opens the info.plist in the /Applications/AltStore.app directory 4. In the info.plist Fill in the UDID of your device in the ALTDeviceID field and save it
+4. ⁠Enter the main AltStore program and log in to your AppleID. After logging in, you will be prompted to refresh, and then refresh a new AltStore, regardless of this
+5. ⁠Pour in the IPA that needs to be signed, and it will be signed during the signing process. Refresh again and cancel it.
+6. ⁠After the signature is completed, go to the settings to check whether there is a certificate. As long as you have no operation error.
+
+if you Have a Original Altstore you have to install AltStorePatch
+
+no need to connect to the computer once and no need to manually modify the ALTDeviceID to use AltStore signature normally 😉
+
+AltstorePatch deb file
+
+
+Don’t forget to follow me ;D 
+https://mobile.twitter.com/imogye
+
+Frequently Asked Questions:
+
+1. ⁠State Bank self-healing network equipment
+2. ⁠Tip UDID invalid login, please fill in your own check steps above the UDID is correct, canceled after a change of phone
+3. ⁠an account not on the landing can continue to try to account for a 4 Please delete the AltStore you installed before installing this main program
+4. ⁠Please delete the installed software with BundlelD before signing the software
+5. ⁠After updating the main AltStore program in the source, you need to re-enter the info.plist under the /Applications/AltStore.app directory and modify the ALTDevicelD to Own UDID
